@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Kush Godhaviya
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Competitive+Programmer;Web+Developer;Networking+Enthusiast;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Competitive+Programmer;Web+Developer;Tech+Explorer;Always+Learning+New+Things"/>
 
 <img src="https://komarev.com/ghpvc/?username=Kushpatel2611&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
@@ -19,7 +19,6 @@
 - 🌱 Currently learning **C++, Data Structures & Algorithms, Networking, and Web Development**
 - 🚀 Exploring Open Source
 - 🏆 Competitive Programming Enthusiast
-- 🎯 Goal: Become a Skilled Software Engineer
 
 ---
 
