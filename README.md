@@ -1,48 +1,55 @@
-# <h1 align="center">Hi 👋, I'm Kush Godhaviya</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Competitive+Programmer;Web+Developer;Hackathon+Enthusiast;Always+Learning+🚀"/>
-</p>
+# 👋 Hey, I'm Kush Godhaviya
 
-<h3 align="center">Computer Engineering Student at CSPIT, CHARUSAT</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Competitive+Programmer;Web+Developer;Networking+Enthusiast;Always+Learning..." />
 
----
+</div>
 
-# 💫 About Me
+<br>
 
-🎓 Engineering Student at **CSPIT, CHARUSAT (CE'29)**
+```bash
+┌──(kush㉿charusat)-[~/profile]
+└─$ whoami
+
+👤 Kush Godhaviya
+
+🎓 B.Tech Computer Engineering
+🏫 CSPIT, CHARUSAT
 
 💻 Passionate Developer
 
-👨‍💻 Code. Debug. Repeat.
+🚀 Exploring
+   • C++
+   • Data Structures
+   • Networking
+   • Web Development
 
-🚀 Tech Explorer
+⚡ Motto
+Code • Learn • Build • Repeat
+```
 
-🎯 Staying Consistent
+<div align="center">
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
+## 🌐 Connect
 
 <a href="https://instagram.com/kush_godhaviya">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:godhaviya2611kush@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://leetcode.com/u/53TPqVNGor/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -50,68 +57,52 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,html,css,git,github,vscode,netlify"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,html,css,git,github,vscode,linux,netlify"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🧠 LeetCode
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kushpatel2611&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushpatel2611&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://leetcard.jacoblin.cool/53TPqVNGor?theme=dark&font=JetBrains+Mono&ext=contest"/>
 
 </p>
 
 ---
 
-# 🧠 LeetCode Stats
+# 📈 Contributions
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/53TPqVNGor?theme=dark&font=Karma&ext=contest"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushpatel2611&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🐍 Snake
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushpatel2611&theme=tokyo-night"/>
+<img src="https://raw.githubusercontent.com/Kushpatel2611/Kushpatel2611/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."**
+
+</div>
+
+<br>
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Kushpatel2611/Kushpatel2611/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</p>
-
----
-
-# ✍️ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=Kushpatel2611&icon=5&color=12"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,100:6C63FF&section=footer"/>
 
 </p>
