@@ -1,21 +1,117 @@
-# 💫 About Me:
-🎓 Engineering Student at CSPIT, CHARUSAT (CE'29)<br>💻 Passionate Developer<br>👨‍💻 Code. Debug. Repeat.<br>🚀 Tech Explorer<br>🎯 Staying consistent<br>
+# <h1 align="center">Hi 👋, I'm Kush Godhaviya</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Competitive+Programmer;Web+Developer;Hackathon+Enthusiast;Always+Learning+🚀"/>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kush_godhaviya) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Kush%20Godhaviya-%230077B5?logo=linkedin&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:godhaviya2611kush@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-
-![](https://github-readme-stats.vercel.app/api?username=Kushpatel2611&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kushpatel2611&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushpatel2611&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">Computer Engineering Student at CSPIT, CHARUSAT</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kushpatel2611&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🎓 Engineering Student at **CSPIT, CHARUSAT (CE'29)**
+
+💻 Passionate Developer
+
+👨‍💻 Code. Debug. Repeat.
+
+🚀 Tech Explorer
+
+🎯 Staying Consistent
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://instagram.com/kush_godhaviya">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:godhaviya2611kush@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/53TPqVNGor/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,html,css,git,github,vscode,netlify"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kushpatel2611&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushpatel2611&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/53TPqVNGor?theme=dark&font=Karma&ext=contest"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushpatel2611&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Kushpatel2611/Kushpatel2611/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</p>
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=Kushpatel2611&icon=5&color=12"/>
+
+</p>
