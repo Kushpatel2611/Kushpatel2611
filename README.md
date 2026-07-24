@@ -66,13 +66,7 @@
 
 ---
 
-# 📋 GitHub Profile Summary
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushpatel2611&theme=tokyonight"/>
-
-</p>
 
 ---
 
