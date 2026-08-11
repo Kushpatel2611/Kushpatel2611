@@ -74,10 +74,9 @@
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/53TPqVNGor?theme=dark&font=JetBrains+Mono&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/Kush_Patel_07?theme=dark&font=JetBrains+Mono&ext=contest"/>
 
 </p>
-
 ---
 
 # 🐍 Contribution Snake
