@@ -26,7 +26,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/your-actual-slug/">
+<a href="https://www.linkedin.com/in/kush-godhaviya-b0bb11389">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
