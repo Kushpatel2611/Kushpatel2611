@@ -26,7 +26,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/your-actual-slug/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/53TPqVNGor/">
+<a href="https://leetcode.com/u/Kush_Patel_07/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
