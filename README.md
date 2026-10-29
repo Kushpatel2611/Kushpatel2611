@@ -1,134 +1,143 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F7FF,100:6C63FF&text=Kush%20Godhaviya&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00F7FF,100:6C63FF&text=Kush%20Godhaviya&fontSize=52&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-# 👋 Hi, I'm Kush Godhaviya
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Competitive+Programmer;Web+Developer;Tech+Explorer;Always+Learning+New+Things"/>
+<h2>🔐 Cybersecurity &amp; VAPT Enthusiast</h2>
 
-<img src="https://komarev.com/ghpvc/?username=Kushpatel2611&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Exploring+Vulnerability+Assessment+%26+Penetration+Testing;Learning+Ethical+Hacking+%26+Network+Security;CCNA%3A+Introduction+to+Networks+Verified" alt="Typing animation"/>
+</p>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Kushpatel2611&label=PROFILE+VIEWS&color=6C63FF&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Engineering Student at **CSPIT, CHARUSAT**
-- 💻 Passionate about Software Development
-- 🌱 Currently learning **C++, Data Structures & Algorithms, Networking, and Web Development**
-- 🚀 Exploring Open Source
-- 🏆 Competitive Programming Enthusiast
+Hey! I'm Kush, a Computer Engineering undergraduate at **CSPIT, CHARUSAT**, interested in cybersecurity and offensive security.
+
+- 🔐 Exploring **Vulnerability Assessment and Penetration Testing (VAPT)**
+- 🛡️ Learning ethical hacking and security testing fundamentals
+- 📡 **CCNA: Introduction to Networks — Verified**
+- 🐧 Exploring Linux, Kali Linux, and networking tools
+- 🔎 Interested in discovering vulnerabilities and understanding how to fix them
+- 🎯 Building practical skills through hands-on labs and projects
 
 ---
 
-# 🌐 Connect With Me
+## 🎯 Cybersecurity Interests
 
 <p align="center">
+  <img src="https://img.shields.io/badge/VAPT-Learning-6C63FF?style=for-the-badge" alt="VAPT"/>
+  <img src="https://img.shields.io/badge/Network_Security-Exploring-4169E1?style=for-the-badge" alt="Network Security"/>
+  <img src="https://img.shields.io/badge/Ethical_Hacking-Learning-00A896?style=for-the-badge" alt="Ethical Hacking"/>
+</p>
+
+| Area | What I'm Exploring |
+|---|---|
+| 🔍 Vulnerability Assessment | Identifying security weaknesses and understanding risk severity |
+| 🛡️ Penetration Testing | Learning structured security testing methodologies |
+| 🌐 Network Security | TCP/IP, network services, ports, and common vulnerabilities |
+| 🕸️ Web Application Security | OWASP Top 10 and common web vulnerabilities |
+| 🐧 Linux & Security Tools | Command-line skills and security testing utilities |
+
+---
+
+## 🧰 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,vscode,c,cpp&perline=4" alt="Technologies and tools"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-Network_Scanning-4682B4?style=flat-square" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-Web_Security-FF6633?style=flat-square" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=flat-square" alt="Wireshark"/>
+</p>
+
+<p align="center">
+  <sub>Tools I'm exploring as part of my cybersecurity learning journey.</sub>
+</p>
+
+## 📚 Current Learning Goals
+
+- 🔹 Strengthen networking and TCP/IP fundamentals
+- 🔹 Learn the complete VAPT process, from reconnaissance to reporting
+- 🔹 Explore the OWASP Top 10 web application security risks
+- 🔹 Practise penetration testing in authorized lab environments
+- 🔹 Learn vulnerability assessment, risk analysis, and remediation
+- 🔹 Build and document hands-on cybersecurity projects
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/Kushpatel2611">
+  <img src="https://github-stats-extended.vercel.app/api?username=Kushpatel2611&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Statistics"/>
+</a>
+<a href="https://github.com/Kushpatel2611">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kushpatel2611&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Most Used Languages"/>
+</a>
+
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Kush_Patel_07?theme=dark&font=JetBrains+Mono&ext=contest" width="75%" alt="LeetCode statistics"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Kushpatel2611/Kushpatel2611/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/kush-godhaviya-b0bb11389">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:godhaviya2611kush@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
 <a href="https://instagram.com/kush_godhaviya">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-
 <a href="https://leetcode.com/u/Kush_Patel_07/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 
-</p>
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,git,github,vscode,kali,javascript,linux,netlify"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushpatel2611&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-
-
----
-
-# 🧠 LeetCode Stats
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/Kush_Patel_07?theme=dark&font=JetBrains+Mono&ext=contest"/>
-
-</p>
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Kushpatel2611/Kushpatel2611/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🚀 Current Goals
-
-- 🌱 Master Data Structures & Algorithms
-- 🌐 Learn Full Stack Development
-- 📡 Deep Dive into Computer Networking
-- 💻 Build Open Source Projects
-- 🏆 Solve 500+ LeetCode Problems
-
----
-
-# 💡 Fun Fact
-
-```cpp
-while (!success)
-{
-    Learn();
-    Build();
-    Debug();
-    Repeat();
-}
-```
-
----
-
-# ✨ Random Developer Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 🔐 Learn to Find. Understand to Secure.
 
-*"First, solve the problem. Then, write the code."*
+*Exploring vulnerabilities. Strengthening knowledge. Building security skills.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,100:6C63FF&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00F7FF,100:6C63FF&section=footer" width="100%"/>
 
 </div>
